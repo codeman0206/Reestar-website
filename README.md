@@ -23,6 +23,6 @@ This project was created to practice and demonstrate fundamental web development
 * Styling elements using CSS
 * Designing a basic responsive layout
 
-Thankyou for visIting my Website
+Thankyou for visiting my Website
 
 
